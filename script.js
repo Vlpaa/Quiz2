@@ -17,7 +17,7 @@ quizdata = [
 //2
 {
 
-    question:"Od čega ke CSS skraćeno?",
+    question:"Od čega je CSS skraćeno?",
 
     a:"Central Style Sheets",
     b:"Cascading Style Sheets",
